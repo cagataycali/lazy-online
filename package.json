@@ -1,0 +1,18 @@
+{
+  "name": "lazy-online",
+  "version": "1.0.0",
+  "description": "Lazy online",
+  "engines": {
+    "node": "7.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "lazy.ai": "^2.2.6",
+    "socket.io": "^1.7.3"
+  },
+  "license": "MIT"
+}

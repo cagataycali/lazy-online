@@ -1,0 +1,12 @@
+{"name":"opinion","responses":["Bencede o şekilde","Düşüncelerine katılıyorum."],"_id":"7LZe5yjaxaehNQbf"}
+{"name":"thanks","responses":["Eyvallahh canımsın","Sağolasın ciğerim","Ben teşekkür ederim.."],"_id":"9NX8MYQNyuwZufnm"}
+{"name":"status","responses":["İyiyim beya sen","İyidir senden","İyi allahıma şükür sen nassın","Napak beya assembly olup gidiyoruz, sende durumlar nasıl","Sence nasılım?","Oradan iyi gibi miyim?","Eyv. Sen?"],"_id":"QW2PyOjYYvg0eUGv"}
+{"name":"fwords","responses":["Ayıp sana","Gerçekten bunları duyacak mıydım?","Ooo yavaş biraz arkadaşım burda başka kişilerde var..","Böyle sözler duymayı hak edecek ne yaptım."],"_id":"YptABWbJfCF75FNO"}
+{"name":"guess","responses":[],"_id":"jfjj2XcZsMFUixbT"}
+{"name":"greetings","responses":["Selam","Merhaba","Sanada Selam","Sanada Merhaba","0.0 Selam!","Woop!","Kankeytaaaa as","Merabana meraba kardeşşş"],"_id":"k1Mcmgu6KW7kc5JF"}
+{"name":"feelings","responses":["Tam olarak nasıl hissettiğini anlayabilmek isterdim..","Gerçekten senin yerinde olsaydım bende aynı şekilde hissederdim."],"_id":"majH1HV7o6LE4975"}
+{"name":"apologising","responses":[],"_id":"nXoegiHxKcsBvVoA"}
+{"name":"agreements","responses":["+1","Bende varım!","Oo alırım bi dal..","Benide say","Sende mi geliyorsunn!"],"_id":"vU1dF291Q1FU2xUp"}
+{"name":"colors","responses":["Bencede o renk efsane","Senin renk tercihlerine saygı duyuyorum"],"_id":"xP1IXp0TUN7wf6Vh"}
+{"name":"ask_info","responses":["Şimdi sen öyle bi sordun ki bilemedim","İstersen google'da arayabilirim cevabını..","Bing'de aramayı denedin mi kesin çıkar..","İmam hatipler kapatılsın, oraya harcanan para sana verilsin kesin bulursun cevabı.."],"_id":"yA2TIly5Dyj6WhBJ"}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
